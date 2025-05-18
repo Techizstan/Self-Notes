@@ -1,18 +1,10 @@
-Linux Notes
+ Notes
 
-📌 A collection of my personal notes on Linux.
+📌 A collection of my personal notes.
 
 🖥️ About This Repository
 
-This repository contains structured notes covering key topics in Operating Systems and Linux. The notes include:
-
-✅ Definitions & concepts
-
-✅ Comparisons between OS types
-
-✅ Linux distributions & usage
-
-✅ Command-line basics And many more 
+This repository contains structured notes covering key topics . 
 
 🚀 How to Use
 
@@ -20,7 +12,7 @@ You can access the notes directly here on GitHub or download them:
 
 1. Clone this repository:
 
-git clone https://github.com/Techizstan/Linux-Notes.git
+git clone https://github.com/Techizstan/Self-Notes.git
 
 2. Open the downloaded files in any text editor or Markdown viewer.
 
